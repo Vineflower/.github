@@ -12,4 +12,4 @@ To get in touch or to ask questions, you can get in touch via the following meth
 
 ### Where's Quiltflower?
 
-In short, Vineflower *is* Quiltflower- created by the same team and having the same goals, just under a new name. The reason for this shift was mainly as the project had grown significantly since its inception, and we figured a seperate space would be more ideal for the long-term future of the project.
+In short, Vineflower *is* Quiltflower- created by the same team and having the same goals, just under a new name. The reason for this shift was not due to any drama or falling out with the Quilt team, instead from a desire to expand past a focus on mainly Minecraft and create a more general Java decompiler. Quiltflower grew significantly since its inception and had always been doing its own thing on the side, and this is a natural progression of the project.
