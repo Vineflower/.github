@@ -6,6 +6,6 @@ This organization houses the Vineflower Java decompiler, as well as related tool
 
 To get in touch or to ask questions, you can get in touch via the following methods:
 
-- irc: [not setup yet, check back soon]
-- matrix: [not setup yet, check back soon]
-- discord: https://discord.com/invite/MsBAZamXGF
+- IRC: [not setup yet, check back soon]
+- Matrix: https://matrix.to/#/#vineflower:dfsek.com
+- Discord: https://discord.com/invite/MsBAZamXGF
