@@ -6,7 +6,7 @@ This organization houses the Vineflower Java decompiler, as well as related tool
 
 To get in touch or to ask questions, you can get in touch via the following methods:
 
-- IRC: [not setup yet, check back soon]
+- IRC: #vf-general on jaskarth.com port 6697 (TLS required)
 - Matrix: https://matrix.to/#/#vineflower:dfsek.com
 - Discord: https://discord.com/invite/MsBAZamXGF
 
